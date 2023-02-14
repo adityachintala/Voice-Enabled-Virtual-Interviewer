@@ -80,8 +80,8 @@ async function createVariations(questions) {
 }
 
 async function writeToFile(fileName, obj) {
-    console.log("Writing to file...");
     writeFile(fileName, JSON.stringify(obj), function (err) {
+        console.log("Writing to file...");
         if (err) throw err;
         console.log('Saved ' + fileName + '!\n');
     });
@@ -98,7 +98,7 @@ async function createAnswers(variations) {
                     let result = res.data.choices[0].text;
                     // remove new lines and convert into well formatted answer
                     result = result.replace(/\n/g, '');
-                    variations["questions"]["question" + (i + 1)]["variation" + (j + 1)]["answer"] = res.data.choices[0].text;
+                    variations["questions"]["question" + (i + 1)]["variation" + (j + 1)]["answer"] = result;
                 });
             }
         }

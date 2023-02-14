@@ -14,9 +14,11 @@ async function generate(prompt) {
 }
 
 async function main() {
-    let prompt = "What is a galaxy?";
+    let prompt = "Which phone brand is the most popular?";
     let result = await generate(prompt);
-    console.log(result.data.choices[0].text);
+    result = result.data.choices[0].text;
+    result = result.replace(/\n/g, '');
+    console.log(result);
 }
 
 main();

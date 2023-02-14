@@ -1,1 +1,155 @@
-{"topic":"phone","questions":{"question1":{"question":"What is the most popular phone brand?","variation1":{"question":"Which phone brand is the most popular?","answer":"\n\nThe most popular phone brand is Apple, followed by Samsung, Huawei, and Xiaomi."},"variation2":{"question":"What is the most sought-after phone brand?","answer":"\n\nThe most sought-after phone brand is Apple, followed by Samsung, Huawei, and Xiaomi."},"variation3":{"question":"Which phone brand is the most in-demand?","answer":"\n\nThe most in-demand phone brand is Apple, followed by Samsung, Huawei, and Xiaomi."}},"question2":{"question":"What is the latest iPhone model?","variation1":{"question":"What is the newest iPhone model?","answer":"\n\nThe newest iPhone model is the iPhone 12."},"variation2":{"question":"Which is the most recent iPhone model?","answer":"\n\nThe most recent iPhone model is the iPhone 12."},"variation3":{"question":"What is the most up-to-date iPhone model?","answer":"\n\nThe most up-to-date iPhone model is the iPhone 12 Pro Max."}},"question3":{"question":"What is the most popular operating system for phones?","variation1":{"question":"Which operating system is most commonly used on phones?","answer":"\n\nThe most commonly used operating system on phones is Android."},"variation2":{"question":"What is the most widely used operating system for phones?","answer":"\n\nThe most widely used operating system for phones is Android."},"variation3":{"question":"Which operating system is the most popular for phones?","answer":"\n\nThe most popular operating system for phones is Android, developed by Google."}},"question4":{"question":"What is the most popular messaging app?","variation1":{"question":"Which messaging app is the most popular?","answer":"\n\nThe most popular messaging app is WhatsApp, with over 2 billion users worldwide."},"variation2":{"question":"Which messaging app has the most users?","answer":"\n\nAs of 2021, WhatsApp is the most popular messaging app with over 2 billion users worldwide."},"variation3":{"question":"What is the most widely used messaging app?","answer":"\n\nThe most widely used messaging app is WhatsApp, with over 2 billion users worldwide."}},"question5":{"question":"What is the most popular phone camera resolution?","variation1":{"question":"What is the most sought-after phone camera resolution?","answer":"\n\nThe most sought-after phone camera resolution is currently 48 megapixels. This resolution is becoming increasingly popular as it allows for high-quality photos and videos to be taken with a smartphone."},"variation2":{"question":"Which phone camera resolution is the most popular?","answer":"\n\nThe most popular phone camera resolution is 12 megapixels."},"variation3":{"question":"What is the most widely used phone camera resolution?","answer":"\n\nThe most widely used phone camera resolution is 12 megapixels."}},"question6":{"question":"What is the most popular phone size?","variation1":{"question":"Which phone size is the most popular?","answer":"\n\nThe most popular phone size is the 5.5-inch display, which is the size of the iPhone 6 Plus and the Samsung Galaxy S7 Edge."},"variation2":{"question":"What size phone is the most sought after?","answer":"\n\nThe most sought after size of phone is typically between 5.5 and 6.5 inches. This size is considered to be the perfect balance between portability and usability."},"variation3":{"question":"What is the most widely used phone size?","answer":"\n\nThe most widely used phone size is the 5.5-inch display, which is the size of the iPhone 8 Plus and the Samsung Galaxy S8."}},"question7":{"question":"What is the most popular phone color?","variation1":{"question":"Which phone color is the most popular?","answer":"\n\nThe most popular phone color is black."},"variation2":{"question":"What color phone is the most sought after?","answer":"\n\nThe most sought after color phone is typically black or white."},"variation3":{"question":"What is the most favored phone color?","answer":"\n\nThe most favored phone color is black."}},"question8":{"question":"What is the most popular phone feature?","variation1":{"question":"Which phone feature is the most popular?","answer":"\n\nThe most popular phone feature is likely the camera, as it allows users to take photos and videos quickly and easily."},"variation2":{"question":"What is the most sought-after phone feature?","answer":"\n\nThe most sought-after phone feature is a long-lasting battery life. Many people want a phone that can last all day without needing to be recharged. Other popular features include a good camera, a large display, and fast charging capabilities."},"variation3":{"question":"What phone feature is the most in demand?","answer":"\n\nThe most in demand phone feature is likely a large, high-resolution display. Smartphone displays have become increasingly larger and higher resolution over the years, and this trend is expected to continue. Other popular features include long battery life, fast processors, and advanced camera technology."}},"question9":{"question":"What is the most popular phone accessory?","variation1":{"question":"Which phone accessory is the most popular?","answer":"\n\nThe most popular phone accessory is a protective case."},"variation2":{"question":"What is the most sought-after phone accessory?","answer":"\n\nThe most sought-after phone accessory is a protective case. Cases protect phones from scratches, dents, and other damage, and come in a variety of styles and colors to suit any taste."},"variation3":{"question":"What phone accessory is the most in demand?","answer":"\n\nWireless earbuds are the most in demand phone accessory."}},"question10":{"question":"What is the most popular phone game?","variation1":{"question":"Which phone game is the most popular?","answer":"\n\nThe most popular phone game is currently PUBG Mobile."},"variation2":{"question":"What phone game is the most popular among users?","answer":"\n\nThe most popular phone game among users is currently Fortnite."},"variation3":{"question":"Which phone game has the most users?","answer":"\n\nThe most popular phone game in terms of users is currently PUBG Mobile, with over 600 million downloads."}}}}
+{
+    "topic": "mobile",
+    "questions": {
+        "question1": {
+            "question": "What is the most popular mobile operating system?",
+            "variation1": {
+                "question": "Which mobile operating system is the most popular?",
+                "answer": "The most popular mobile operating system is Android, developed by Google. It is used by over 2 billion active users worldwide."
+            },
+            "variation2": {
+                "question": "What is the most widely used mobile operating system?",
+                "answer": "The most widely used mobile operating system is Android, developed by Google. It is used on over 2 billion devices worldwide."
+            },
+            "variation3": {
+                "question": "Which mobile operating system has the most users?",
+                "answer": "Android is currently the most popular mobile operating system, with over 2 billion active users worldwide."
+            }
+        },
+        "question2": {
+            "question": "What is the most popular mobile phone brand?",
+            "variation1": {
+                "question": "Which mobile phone brand is the most popular?",
+                "answer": "The most popular mobile phone brand is currently Apple, followed by Samsung, Huawei, and Xiaomi."
+            },
+            "variation2": {
+                "question": "What is the most sought-after mobile phone brand?",
+                "answer": "The most sought-after mobile phone brand is Apple, followed by Samsung, Huawei, and Xiaomi."
+            },
+            "variation3": {
+                "question": "Which mobile phone brand is the most in-demand?",
+                "answer": "The most in-demand mobile phone brand is Apple."
+            }
+        },
+        "question3": {
+            "question": "What is the most popular mobile app?",
+            "variation1": {
+                "question": "Which mobile app is the most popular?",
+                "answer": "The most popular mobile app varies depending on the region and the type of app. Some of the most popular apps worldwide include Facebook, WhatsApp, YouTube, Instagram, and TikTok."
+            },
+            "variation2": {
+                "question": "What is the most widely used mobile app?",
+                "answer": "The most widely used mobile app is Facebook, with over 2.5 billion monthly active users."
+            },
+            "variation3": {
+                "question": "Which mobile app has the most users?",
+                "answer": "The mobile app with the most users is Facebook, with over 2.5 billion monthly active users."
+            }
+        },
+        "question4": {
+            "question": "What is the most popular mobile game?",
+            "variation1": {
+                "question": "Which mobile game is the most popular?",
+                "answer": "The most popular mobile game is currently PUBG Mobile."
+            },
+            "variation2": {
+                "question": "What is the most played mobile game?",
+                "answer": "The most played mobile game is currently PUBG Mobile, with over 600 million downloads worldwide."
+            },
+            "variation3": {
+                "question": "Which mobile game has the most players?",
+                "answer": "The mobile game with the most players is currently PUBG Mobile, with over 600 million downloads."
+            }
+        },
+        "question5": {
+            "question": "What is the most popular mobile payment system?",
+            "variation1": {
+                "question": "Which mobile payment system is the most popular?",
+                "answer": "The most popular mobile payment system is Apple Pay. It is accepted at millions of stores and is available in more than 25 countries. It is also integrated with many banks and credit card companies, making it easy to use."
+            },
+            "variation2": {
+                "question": "What is the most widely used mobile payment system?",
+                "answer": "The most widely used mobile payment system is Apple Pay. It is available in more than 50 countries and is accepted by millions of merchants worldwide."
+            },
+            "variation3": {
+                "question": "Which mobile payment system is the most in demand?",
+                "answer": "Apple Pay is currently the most in demand mobile payment system. It is accepted at millions of stores and is available on all Apple devices. It is also widely accepted by banks and other financial institutions. Additionally, Apple Pay is secure and easy to use, making it a popular choice for mobile payments."
+            }
+        },
+        "question6": {
+            "question": "What is the most popular mobile messaging app?",
+            "variation1": {
+                "question": "Which mobile messaging app is the most popular?",
+                "answer": "The most popular mobile messaging app is WhatsApp. It has over 2 billion users worldwide."
+            },
+            "variation2": {
+                "question": "What mobile messaging app is the most widely used?",
+                "answer": "The most widely used mobile messaging app is WhatsApp. It has over 2 billion users worldwide."
+            },
+            "variation3": {
+                "question": "Which mobile messaging app has the most users?",
+                "answer": "As of 2021, WhatsApp is the most popular mobile messaging app with over 2 billion users worldwide."
+            }
+        },
+        "question7": {
+            "question": "What is the most popular mobile browser?",
+            "variation1": {
+                "question": "Which mobile browser is the most popular?",
+                "answer": "Google Chrome is the most popular mobile browser, with over 60% of the market share."
+            },
+            "variation2": {
+                "question": "What is the most widely used mobile browser?",
+                "answer": "The most widely used mobile browser is Google Chrome."
+            },
+            "variation3": {
+                "question": "Which mobile browser has the most users?",
+                "answer": "Google Chrome is the most popular mobile browser, with over 60% of the global market share."
+            }
+        },
+        "question8": {
+            "question": "What is the most popular mobile search engine?",
+            "variation1": {
+                "question": "Which mobile search engine is the most popular?",
+                "answer": "Google is the most popular mobile search engine."
+            },
+            "variation2": {
+                "question": "What is the most widely used mobile search engine?",
+                "answer": "Google is the most widely used mobile search engine."
+            },
+            "variation3": {
+                "question": "Which search engine is the most popular on mobile devices?",
+                "answer": "Google is the most popular search engine on mobile devices."
+            }
+        },
+        "question9": {
+            "question": "What is the most popular mobile streaming service?",
+            "variation1": {
+                "question": "Which mobile streaming service is the most popular?",
+                "answer": "The most popular mobile streaming service is Netflix."
+            },
+            "variation2": {
+                "question": "What is the most widely used mobile streaming service?",
+                "answer": "The most widely used mobile streaming service is Netflix."
+            },
+            "variation3": {
+                "question": "Which mobile streaming service has the most users?",
+                "answer": "The mobile streaming service with the most users is YouTube. According to Statista, YouTube had 2 billion monthly active users in 2020."
+            }
+        },
+        "question10": {
+            "question": "What is the most popular mobile navigation app?",
+            "variation1": {
+                "question": "Which mobile navigation app is the most popular?",
+                "answer": "The most popular mobile navigation app is Google Maps. It is used by millions of people around the world and is available for both Android and iOS devices. It offers turn-by-turn navigation, real-time traffic updates, and other features such as finding nearby restaurants and businesses."
+            },
+            "variation2": {
+                "question": "Which navigation app is the most widely used on mobile devices?",
+                "answer": "Google Maps is the most widely used navigation app on mobile devices."
+            },
+            "variation3": {
+                "question": "What is the go-to mobile navigation app?",
+                "answer": "The most popular mobile navigation app is Google Maps. It is available for both Android and iOS devices and offers features such as turn-by-turn navigation, real-time traffic updates, and public transit information."
+            }
+        }
+    }
+}
