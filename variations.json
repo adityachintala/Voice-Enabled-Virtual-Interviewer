@@ -1,52 +1,125 @@
 {
-    "What is the most abundant metal in the Earth's crust?": [
-        "Which metal is most abundant in the Earth's crust?",
-        "What is the most prevalent metal in the Earth's crust?",
-        "What is the most common metal in the Earth's crust?"
-    ],
-    "What is the most malleable metal?": [
-        "Which metal is the most malleable?",
-        "Which metal has the highest malleability?",
-        "What metal is the most pliable?"
-    ],
-    "What is the most ductile metal?": [
-        "Which metal is the most ductile?",
-        "Which metal has the highest ductility?",
-        "What is the most malleable metal?"
-    ],
-    "What is the most reactive metal?": [
-        "Which metal is the most reactive?",
-        "Which metal has the highest reactivity?",
-        "Which metal has the greatest reactivity?"
-    ],
-    "What is the most abundant transition metal?": [
-        "Which transition metal is most abundant?",
-        "Which transition metal has the highest abundance?",
-        "What transition metal has the greatest abundance?"
-    ],
-    "What is the most abundant metal in the human body?": [
-        "Which metal is most abundant in the human body?",
-        "What is the most prevalent metal in the human body?",
-        "What metal is found in the highest concentration in the human body?"
-    ],
-    "What is the most abundant metal in seawater?": [
-        "What metal is most abundant in seawater?",
-        "Which metal is most prevalent in seawater?",
-        "What is the most common metal found in seawater?"
-    ],
-    "What is the most abundant metal in the universe?": [
-        "What is the most prevalent metal in the cosmos?",
-        "What is the most common metal found in the universe?",
-        "Which metal is the most abundant in the universe?"
-    ],
-    "What is the most abundant metal in the Earth's core?": [
-        "What metal is most abundant in the Earth's core?",
-        "Which metal is most abundant in the Earth's core?",
-        "What is the most prevalent metal in the Earth's core?"
-    ],
-    "What is the most abundant metal in the Earth's mantle?": [
-        "What is the most prevalent metal in the Earth's mantle?",
-        "Which metal is most abundant in the Earth's mantle?",
-        "What is the most common metal found in the Earth's mantle?"
-    ]
+    "topic": "Solar System",
+    "questions": {
+        "question1": {
+            "question": "What is the closest star to Earth?",
+            "variation1": {
+                "question": "Which star is closest to Earth?"
+            },
+            "variation2": {
+                "question": "What is the star nearest to Earth?"
+            },
+            "variation3": {
+                "question": "Which is the star that is closest to Earth?"
+            }
+        },
+        "question2": {
+            "question": "What is the name of the largest planet in the Solar System?",
+            "variation1": {
+                "question": "What is the title of the biggest planet in the Solar System?"
+            },
+            "variation2": {
+                "question": "Which planet is the largest in the Solar System?"
+            },
+            "variation3": {
+                "question": "What is the name of the most massive planet in the Solar System?"
+            }
+        },
+        "question3": {
+            "question": "How many planets are in the Solar System?",
+            "variation1": {
+                "question": "How many planets make up the Solar System?"
+            },
+            "variation2": {
+                "question": "What is the total number of planets in the Solar System?"
+            },
+            "variation3": {
+                "question": "How many celestial bodies orbit the Sun in the Solar System?"
+            }
+        },
+        "question4": {
+            "question": "What is the name of the smallest planet in the Solar System?",
+            "variation1": {
+                "question": "Which planet is the smallest in the Solar System?"
+            },
+            "variation2": {
+                "question": "What is the name of the tiniest planet in the Solar System?"
+            },
+            "variation3": {
+                "question": "What is the name of the minutest planet in the Solar System?"
+            }
+        },
+        "question5": {
+            "question": "What is the name of the asteroid belt between Mars and Jupiter?",
+            "variation1": {
+                "question": "Where is the asteroid belt located in the Solar System?"
+            },
+            "variation2": {
+                "question": "What is the name of the region between Mars and Jupiter containing asteroids?"
+            },
+            "variation3": {
+                "question": "What is the title of the asteroid belt between Mars and Jupiter?"
+            }
+        },
+        "question6": {
+            "question": "What is the name of the planet that has the most moons?",
+            "variation1": {
+                "question": "Which planet has the most moons?"
+            },
+            "variation2": {
+                "question": "Which celestial body has the most moons orbiting it?"
+            },
+            "variation3": {
+                "question": "What is the name of the planet with the most moons orbiting it?"
+            }
+        },
+        "question7": {
+            "question": "What is the name of the planet that is known as the Red Planet?",
+            "variation1": {
+                "question": "What is the moniker of the planet that is often referred to as the Red Planet?"
+            },
+            "variation2": {
+                "question": "What is the title of the celestial body that is known as the Red Planet?"
+            },
+            "variation3": {
+                "question": "What is the appellation of the world that is nicknamed the Red Planet?"
+            }
+        },
+        "question8": {
+            "question": "What is the name of the planet that is known as the Morning Star?",
+            "variation1": {
+                "question": "What is the moniker of the celestial body known as the Morning Star?"
+            },
+            "variation2": {
+                "question": "What is the title of the planet referred to as the Morning Star?"
+            },
+            "variation3": {
+                "question": "What is the appellation of the world called the Morning Star?"
+            }
+        },
+        "question9": {
+            "question": "What is the name of the planet that is known as the Evening Star?",
+            "variation1": {
+                "question": "What is the moniker of the planet that is referred to as the Evening Star?"
+            },
+            "variation2": {
+                "question": "What is the title of the planet that is known as the Evening Star?"
+            },
+            "variation3": {
+                "question": "What is the appellation of the planet that is called the Evening Star?"
+            }
+        },
+        "question10": {
+            "question": "What is the name of the planet that is farthest from the Sun?",
+            "variation1": {
+                "question": "Which planet is the most distant from the Sun?"
+            },
+            "variation2": {
+                "question": "What is the name of the planet that is the furthest away from the Sun?"
+            },
+            "variation3": {
+                "question": "What is the name of the planet that is the most distant from the Sun?"
+            }
+        }
+    }
 }

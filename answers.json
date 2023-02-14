@@ -1,54 +1,155 @@
 {
-    "topic": {
-        "What is the most abundant metal in the Earth's crust?": {
-            "Which metal is most abundant in the Earth's crust?": "Iron is the most abundant metal in the Earth's crust.",
-            "What is the most prevalent metal in the Earth's crust?": "The most prevalent metal in the Earth's crust is iron.",
-            "What is the most common metal in the Earth's crust?": "The most common metal in the Earth's crust is iron."
+    "topic": "Solar System",
+    "questions": {
+        "question1": {
+            "question": "What is the closest star to Earth?",
+            "variation1": {
+                "question": "Which star is closest to Earth?",
+                "answer": "\n\nThe closest star to Earth is the Sun."
+            },
+            "variation2": {
+                "question": "What is the star nearest to Earth?",
+                "answer": "\n\nThe star nearest to Earth is the Sun."
+            },
+            "variation3": {
+                "question": "Which is the star that is closest to Earth?",
+                "answer": "\n\nThe closest star to Earth is the Sun."
+            }
         },
-        "What is the most malleable metal?": {
-            "Which metal is the most malleable?": "Gold is the most malleable metal.",
-            "Which metal has the highest malleability?": "Gold is considered to have the highest malleability of any metal.",
-            "What metal is the most pliable?": "Tin is the most pliable metal."
+        "question2": {
+            "question": "What is the name of the largest planet in the Solar System?",
+            "variation1": {
+                "question": "What is the title of the biggest planet in the Solar System?",
+                "answer": "\n\nThe biggest planet in the Solar System is Jupiter."
+            },
+            "variation2": {
+                "question": "Which planet is the largest in the Solar System?",
+                "answer": "\n\nJupiter is the largest planet in the Solar System."
+            },
+            "variation3": {
+                "question": "What is the name of the most massive planet in the Solar System?",
+                "answer": "\n\nJupiter is the most massive planet in the Solar System."
+            }
         },
-        "What is the most ductile metal?": {
-            "Which metal is the most ductile?": "Gold is the most ductile metal.",
-            "Which metal has the highest ductility?": "Platinum has the highest ductility of any metal.",
-            "What is the most malleable metal?": "Gold is considered to be the most malleable metal. It can be beaten into extremely thin sheets, and can be stretched and shaped into a variety of forms."
+        "question3": {
+            "question": "How many planets are in the Solar System?",
+            "variation1": {
+                "question": "How many planets make up the Solar System?",
+                "answer": "\n\nThere are eight planets in the Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+            },
+            "variation2": {
+                "question": "What is the total number of planets in the Solar System?",
+                "answer": "\n\nThere are eight planets in the Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+            },
+            "variation3": {
+                "question": "How many celestial bodies orbit the Sun in the Solar System?",
+                "answer": "\n\nEight. The eight celestial bodies that orbit the Sun in the Solar System are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+            }
         },
-        "What is the most reactive metal?": {
-            "Which metal is the most reactive?": "The most reactive metal is Francium.",
-            "Which metal has the highest reactivity?": "Lithium is the metal with the highest reactivity.",
-            "Which metal has the greatest reactivity?": "The metal with the greatest reactivity is potassium, followed by sodium, calcium, magnesium, and aluminum."
+        "question4": {
+            "question": "What is the name of the smallest planet in the Solar System?",
+            "variation1": {
+                "question": "Which planet is the smallest in the Solar System?",
+                "answer": "\n\nThe smallest planet in the Solar System is Mercury."
+            },
+            "variation2": {
+                "question": "What is the name of the tiniest planet in the Solar System?",
+                "answer": "\n\nThe tiniest planet in the Solar System is Mercury."
+            },
+            "variation3": {
+                "question": "What is the name of the minutest planet in the Solar System?",
+                "answer": "\n\nThe minutest planet in the Solar System is Mercury."
+            }
         },
-        "What is the most abundant transition metal?": {
-            "Which transition metal is most abundant?": "Iron is the most abundant transition metal, making up about 5.6% of the Earth's crust.",
-            "Which transition metal has the highest abundance?": "Iron is the transition metal with the highest abundance in the Earth's crust, making up about 5.6% of the total mass.",
-            "What transition metal has the greatest abundance?": "Iron is the most abundant transition metal, making up about 5.6% of the Earth's crust."
+        "question5": {
+            "question": "What is the name of the asteroid belt between Mars and Jupiter?",
+            "variation1": {
+                "question": "Where is the asteroid belt located in the Solar System?",
+                "answer": "\n\nThe asteroid belt is located between the orbits of Mars and Jupiter in the Solar System."
+            },
+            "variation2": {
+                "question": "What is the name of the region between Mars and Jupiter containing asteroids?",
+                "answer": "\n\nThe region between Mars and Jupiter containing asteroids is called the asteroid belt."
+            },
+            "variation3": {
+                "question": "What is the title of the asteroid belt between Mars and Jupiter?",
+                "answer": "\n\nThe asteroid belt between Mars and Jupiter is called the Main Asteroid Belt."
+            }
         },
-        "What is the most abundant metal in the human body?": {
-            "Which metal is most abundant in the human body?": "Iron is the most abundant metal in the human body.",
-            "What is the most prevalent metal in the human body?": "Iron is the most prevalent metal in the human body. It is an essential mineral that is found in red blood cells, muscles, and organs. Iron helps transport oxygen throughout the body and is necessary for many metabolic processes.",
-            "What metal is found in the highest concentration in the human body?": "Iron is found in the highest concentration in the human body."
+        "question6": {
+            "question": "What is the name of the planet that has the most moons?",
+            "variation1": {
+                "question": "Which planet has the most moons?",
+                "answer": "\n\nJupiter has the most moons, with a total of 79."
+            },
+            "variation2": {
+                "question": "Which celestial body has the most moons orbiting it?",
+                "answer": "\n\nThe planet Jupiter has the most moons orbiting it, with a total of 79 known moons."
+            },
+            "variation3": {
+                "question": "What is the name of the planet with the most moons orbiting it?",
+                "answer": "\n\nThe planet with the most moons orbiting it is Jupiter, with a total of 79 known moons."
+            }
         },
-        "What is the most abundant metal in seawater?": {
-            "What metal is most abundant in seawater?": "Magnesium is the most abundant metal in seawater.",
-            "Which metal is most prevalent in seawater?": "Magnesium is the most prevalent metal in seawater.",
-            "What is the most common metal found in seawater?": "The most common metal found in seawater is sodium."
+        "question7": {
+            "question": "What is the name of the planet that is known as the Red Planet?",
+            "variation1": {
+                "question": "What is the moniker of the planet that is often referred to as the Red Planet?",
+                "answer": "\n\nThe planet Mars is often referred to as the Red Planet."
+            },
+            "variation2": {
+                "question": "What is the title of the celestial body that is known as the Red Planet?",
+                "answer": "\n\nThe celestial body known as the Red Planet is Mars."
+            },
+            "variation3": {
+                "question": "What is the appellation of the world that is nicknamed the Red Planet?",
+                "answer": "\n\nThe world nicknamed the Red Planet is Mars."
+            }
         },
-        "What is the most abundant metal in the universe?": {
-            "What is the most prevalent metal in the cosmos?": "The most prevalent metal in the cosmos is hydrogen. Hydrogen is the most abundant element in the universe, making up about 75% of all baryonic matter.",
-            "What is the most common metal found in the universe?": "Iron is the most common metal found in the universe. It is estimated that more than 90% of the universe's mass is made up of iron and other metals.",
-            "Which metal is the most abundant in the universe?": "Iron is the most abundant metal in the universe."
+        "question8": {
+            "question": "What is the name of the planet that is known as the Morning Star?",
+            "variation1": {
+                "question": "What is the moniker of the celestial body known as the Morning Star?",
+                "answer": "\n\nThe Morning Star is also known as the planet Venus."
+            },
+            "variation2": {
+                "question": "What is the title of the planet referred to as the Morning Star?",
+                "answer": "\n\nThe planet referred to as the Morning Star is Venus."
+            },
+            "variation3": {
+                "question": "What is the appellation of the world called the Morning Star?",
+                "answer": "\n\nThe Morning Star is also known as the planet Venus."
+            }
         },
-        "What is the most abundant metal in the Earth's core?": {
-            "What metal is most abundant in the Earth's core?": "Iron is the most abundant metal in the Earth's core.",
-            "Which metal is most abundant in the Earth's core?": "Iron is the most abundant metal in the Earth's core.",
-            "What is the most prevalent metal in the Earth's core?": "Iron is the most prevalent metal in the Earth's core."
+        "question9": {
+            "question": "What is the name of the planet that is known as the Evening Star?",
+            "variation1": {
+                "question": "What is the moniker of the planet that is referred to as the Evening Star?",
+                "answer": "\n\nVenus."
+            },
+            "variation2": {
+                "question": "What is the title of the planet that is known as the Evening Star?",
+                "answer": "\n\nThe Evening Star is the popular name for the planet Venus."
+            },
+            "variation3": {
+                "question": "What is the appellation of the planet that is called the Evening Star?",
+                "answer": "\n\nThe Evening Star is the common name for the planet Venus."
+            }
         },
-        "What is the most abundant metal in the Earth's mantle?": {
-            "What is the most prevalent metal in the Earth's mantle?": "The most prevalent metal in the Earth's mantle is iron.",
-            "Which metal is most abundant in the Earth's mantle?": "Iron is the most abundant metal in the Earth's mantle.",
-            "What is the most common metal found in the Earth's mantle?": "The most common metal found in the Earth's mantle is iron."
+        "question10": {
+            "question": "What is the name of the planet that is farthest from the Sun?",
+            "variation1": {
+                "question": "Which planet is the most distant from the Sun?",
+                "answer": "\n\nThe most distant planet from the Sun is Neptune."
+            },
+            "variation2": {
+                "question": "What is the name of the planet that is the furthest away from the Sun?",
+                "answer": "\n\nThe planet that is the furthest away from the Sun is Neptune."
+            },
+            "variation3": {
+                "question": "What is the name of the planet that is the most distant from the Sun?",
+                "answer": "\n\nThe most distant planet from the Sun is Neptune."
+            }
         }
     }
 }

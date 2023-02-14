@@ -9,7 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mogodb": "^0.0.1-security",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.1",
     "openai-api": "^1.3.1"
   }
 }
