@@ -76,7 +76,6 @@ async function createVariations(questions) {
         });
     }
     console.log("Variations generated successfully in " + ((new Date().getTime() - t1) / 1000).toPrecision(2) + "sec !\n");
-    console.log(variations);
     return variations;
 }
 
@@ -87,7 +86,6 @@ async function writeToFile(fileName, obj) {
         console.log('Saved ' + fileName + '!\n');
     });
 }
-
 
 async function createAnswers(variations) {
     console.log("Generating answers for each variation...");
@@ -105,7 +103,7 @@ async function createAnswers(variations) {
             }
         }
     }
-    console.log("Answers generated successfully in " + ((new Date().getTime() - t1) / 1000).toPrecision(2) + "sec !\n");
+    console.log("Answers generated successfully in " + ((new Date().getTime() - t1) / 1000)/60 + "min !\n");
     return variations;
 }
 
@@ -117,16 +115,21 @@ async function readFromFile(fileName) {
 
 async function main() {
     // write a synchronous function using .then to create questions and then variations
+
+    let t1 = new Date().getTime();
+
     // let questions = await readFromFile("questions.json");
-    // let questions = await createQuestion(topic);
-    // await writeToFile("questions.json", questions);
-    
-    let variations = await readFromFile("variations.json");
-    // let variations = await createVariations(questions);
-    // await writeToFile("variations.json", variations);
-    
+    let questions = await createQuestion(topic);
+    await writeToFile("questions.json", questions);
+
+    // let variations = await readFromFile("variations.json");
+    let variations = await createVariations(questions);
+    await writeToFile("variations.json", variations);
+
     let answers = await createAnswers(variations);
     await writeToFile("answers.json", answers);
+
+    console.log("Total time taken: " + ((new Date().getTime() - t1) / 1000)/60 + "min !\n");
 }
 
 

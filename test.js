@@ -18,3 +18,5 @@ async function main() {
     let result = await generate(prompt);
     console.log(result.data.choices[0].text);
 }
+
+main();
