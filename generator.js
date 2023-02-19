@@ -11,7 +11,7 @@ async function generate(prompt) {
         temperature: 0,
         maxTokens: 1024,
     });
-    return gptResponse;
+    return gptResponse; 
 }
 
 
